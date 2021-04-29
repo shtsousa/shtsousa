@@ -1,4 +1,13 @@
-### Hi there 👋
+#### My name is Samuel Henrique, I'm from Brazil 🇧🇷 I'm a Progamming student focused on Front End Developer.
+
+###### I am using GitHub to bring my evolution during the study period in [Pitagoras](https://www.pitagoras.com.br/).
+###### Work informally with game development Lineage 2 Private 
+
+###### 🎧Passion for soul music
+###### 🕺I danced electronic music for 8 years
+###### ✈Dream of getting to know europe
+###### 🏡I'm in love with the city where I live: Belo Horizonte
+###### 📧How to reach me: samuelhtsousa@gmail.com
 
 <!--
 **shtsousa/shtsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
