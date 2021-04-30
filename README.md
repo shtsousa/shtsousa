@@ -2,7 +2,7 @@
 
 ###### I am using GitHub to bring my evolution during the study period in [Pitagoras](https://www.pitagoras.com.br/).</br>Work informally with game development Lineage 2 Private 
 
-###### 🎧Passion for soul music </br>🕺I danced electronic music for 8 years</br>✈Dream of getting to know europe</br>🏡I'm in love with the city where I live: Belo Horizonte</br>📧How to reach me: samuelhtsousa@gmail.com
+###### 🎧Passion for soul music </br>🕺I danced electronic music for 8 years</br>✈Dream of getting to know europe</br>🏡I'm in love with the city where I live: Belo Horizonte</br>📧How to reach me: samuelhtsousa@gmail.com</br></br>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEULINK/)](https://www.linkedin.com/in/samuelhtsousa/)<br>
 
 <!--
 **shtsousa/shtsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
