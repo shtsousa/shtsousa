@@ -1,4 +1,4 @@
-#### My name is Samuel Henrique, I'm from Brazil, I'm a Progamming student focused on Back End Developer.
+#### My name is Samuel Henrique, I'm from Brazil, I'm a programming student focused on Back End Developer.
 
 ###### I am using GitHub to bring my evolution during the study period in [Pitagoras](https://www.pitagoras.com.br/).</br>Work informally with game development Lineage 2 Private 
 
